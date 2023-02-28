@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Raxit Soni
+Raxit Soni
+Android developer
 
 Show Contacts
 
@@ -32,21 +32,20 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm Creative Mobile Apps Developer from London, UK, working in android & iOS apps development. I enjoy turning complex problems into simple, & robust mobile solution.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+ strive to write clean, maintainable code that is made robust though Test-Driven Development and related agile practices.
 
 ## service
 
 What i'm doing
 
 alt = design icon
-Web design
+App & Web design
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
-Web development
+Web landing Page development
 High-quality development of sites at the professional level.
 
 alt = mobile app icon
@@ -54,8 +53,8 @@ Mobile apps
 Professional development of applications for iOS and Android.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Store Listing
+I can create automated deployment through CI pipelines
 
 
 ## testimonials
