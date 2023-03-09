@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **development or research about mobile development tools & framework**
 
-- 🤝 I’m looking for help with **advance flutter topics**
+- 🤝 I’m looking for help with **advance flutter topics & Backend development**
 
-- 👨‍💻 All of my projects are available at [https://rakshitsoni02.github.io/rakshitsoni02/](https://rakshitsoni02.github.io/rakshitsoni02/)
+- 👨‍💻 To know more about my work & experience [CLICK ME](http://bit.ly/3yp5qv6)
 
 - 💬 Ask me about **Android or iOS development**
 
