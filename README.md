@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/rakshit_soni" target="blank"><img src="https://img.shields.io/twitter/follow/rakshit_soni?logo=twitter&style=for-the-badge" alt="rakshit_soni" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **development or research about mobile development tools & framework**
 
-- 🤝 I’m looking for help with **advance flutter topics & Backend development**
+- 🤝 I’m looking for help with **android topics & Backend development**
 
 - 👨‍💻 To know more about my work & experience [CLICK ME](http://bit.ly/3yp5qv6)
 
