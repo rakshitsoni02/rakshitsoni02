@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **android topics & Backend development**
 
-- 👨‍💻 To know more about my work & experience [CLICK ME](http://bit.ly/3yp5qv6)
-
 - 💬 Ask me about **Android or iOS development**
 
 - 📫 How to reach me **rakshitsoni02@gmail.com**
@@ -25,7 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rakshit_soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakshit_soni" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/raxit-soni-2653a448/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raxit-soni-2653a448/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3779759/rax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/3779759/rax" height="30" width="40" /></a>
 <a href="https://medium.com/@rakshitsoni02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakshitsoni02" height="30" width="40" /></a>
 </p>
