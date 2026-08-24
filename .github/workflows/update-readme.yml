@@ -25,7 +25,9 @@ jobs:
 
       - name: Regenerate stats SVGs
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          # A fine-grained PAT (secret ACCESS_TOKEN) sees private/collaborator repos too;
+          # without one, the built-in token still covers all public repos.
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
           USER_NAME: ${{ github.repository_owner }}
         run: python today.py
 
