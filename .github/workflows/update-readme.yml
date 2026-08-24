@@ -25,11 +25,16 @@ jobs:
 
       - name: Regenerate stats SVGs
         env:
-          # A fine-grained PAT (secret ACCESS_TOKEN) sees private/collaborator repos too;
-          # without one, the built-in token still covers all public repos.
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+          # Must be a personal access token — the built-in GITHUB_TOKEN can only
+          # see this repo, which breaks the cross-repo stats queries.
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ github.repository_owner }}
-        run: python today.py
+        run: |
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "::warning::ACCESS_TOKEN secret is not set — skipping stats refresh (see SETUP.md)"
+            exit 0
+          fi
+          python today.py
 
       - name: Commit and push if changed
         run: |
